@@ -18,6 +18,8 @@ Sorting: ORDER BY to identify the top-performing categories and regions.
 ## Business Insights
 Regional Performance: Identified which Region generates the highest total revenue.
 Category Trends: Pinpointed the Product Categories with the highest demand and sales volume.
+
+
 Author: Alish Gangwar
 Profile: B.Tech Computer Science (Final Year Student)
 Career Goal: Aspiring Data Analyst
